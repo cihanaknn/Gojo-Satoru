@@ -43,8 +43,8 @@ global.mess = {
     private: 'Bu komutu sadece özel sohbetlerde kullanabilirsin!',
     bot: 'Bu komutu sadece bot kullanabilir!(yani ben)',
     wait: 'Seni biraz bekleteceğim...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    error: 'Hata! Api Anahtarının Süresi Dolmuş olabilir🤔!',
+    endLimit: 'Günlük limitin doldu, Günlük limit her 12 saatte bir yenilenir',
 }
     global.limitawal = {
     premium: "Infinity",

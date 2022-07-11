@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.owner = ['+12403248506']
+global.premium = ['+12403248506']
+global.ownernomer = '+12403248506'
+global.ownername = '〆𝙲𝚒𝚑𝚊𝚗𝚂𝚒𝚗𝚜'
+global.botname = '〆𝙲𝚒𝚑𝚊𝚗𝚜𝚋𝚘𝚝'
+global.footer = '©〆𝙲𝚒𝚑𝚊𝚗𝚂𝚒𝚗𝚜'
+global.ig = 'https://instagram.com/cihan_aknn'
+global.region = 'Turkey,Europe'
+global.sc = 'https://github.com/cihanaknn/Gojo-Satoru'
+global.myweb = 'https://cihanflix.wordpress.com'
 global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.author = '〆𝙲𝚒𝚑𝚊𝚗𝚂𝚒𝚗𝚜'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['.']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    admin: 'Bu komutu Sadece adminler kullanabilir!',
+    botAdmin: 'Bot Admin değil!',
+    owner: 'Bu komutu sadece kurucu kullanabilir!',
+    group: 'Bu komutu sadece gruplarda kullanabilirsin!',
+    private: 'Bu komutu sadece özel sohbetlerde kullanabilirsin!',
+    bot: 'Bu komutu sadece bot kullanabilir!(yani ben)',
+    wait: 'Seni biraz bekleteceğim...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
